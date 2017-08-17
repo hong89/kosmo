@@ -10,7 +10,7 @@
 </head>
 <body>
 	<h2>메인 페이지 입니다.</h2>
-	<a href="<c:url value ='/Git/GIT.git' />"> GIT </a>
+	<a href="<c:url value ='/Git/GIT.git'/>"> GIT </a>
 	<hr/>
 	${GIT}
 </body>
